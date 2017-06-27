@@ -1,10 +1,10 @@
 ## README
 
-This modified version of WiringPi is for Roseapple Pi SBC.
+This modified version of WiringPi is for Roseapple Pi SBC fixed by ELAR Systems.
 It is based on the original WiringPi for Raspberry Pi [created by Drogon](http://wiringpi.com/) and WiringLMK [by Lemaker team](http://lemaker.org).
 
 ## Download
-    git clone https://github.com/xapp-le/WiringRaPi.git 
+    git clone https://github.com/elar-systems/WiringRaPi.git 
 
 ## Installation
     cd WiringRaPi
